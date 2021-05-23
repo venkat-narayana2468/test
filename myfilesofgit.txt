@@ -1,1 +1,1 @@
-today i'm going to learn git commands
+today i'm going to implement all the git commands for git bash from online to complete my task in tommorow
